@@ -1,0 +1,27 @@
+body{
+    background-color: pink;
+}
+
+.container{
+    padding-top: 30px;
+}
+
+.card-header{
+    background-color: #181818;
+    color: white;
+}
+
+.card-body{
+    background-color: lightslategray;
+    color: white
+}
+
+.card{
+    background-color: lightslategray
+}
+
+/* .card-body{
+   
+    height: 200px; */
+/* } */
+
